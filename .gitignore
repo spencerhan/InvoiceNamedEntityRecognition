@@ -1,0 +1,10 @@
+*.txt
+*.csv
+*.zip
+*.tar.gz
+*.pb
+**/nlp_processing/elmo_3
+*.json_file
+*.7z
+*.h5
+*.json
