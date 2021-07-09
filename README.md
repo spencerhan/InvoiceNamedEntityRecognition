@@ -14,4 +14,4 @@ We also presented a live example to demonstrate how the ELMo-BiLSTM model identi
 
 As a result, we concluded that even with the presence of OCR noises, our best performing model ELMo BiLSTM is able to produce a reliable NER result and can be reused in a production environment.
 
-In this repository, you will find the TensorFlow code used to implement the deep learning model together with the presentation of my findings and my final dissertation write-up. 
+In this repository, you will find the #####TensorFlow and #####spaCy code used to implement the deep learning model together with the presentation of my findings and my final dissertation write-up. 
